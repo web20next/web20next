@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/site.schema.json",
+  "name": "AJ · aaaaaaaj.com",
+  "url": "https://aaaaaaaj.com",
+  "description": "在 WaytoAGI 搭社区，用 AI 做一些小网页，也把喜欢的图收进图板里。"
+}

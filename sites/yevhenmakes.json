@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/site.schema.json",
+  "name": "Yevhen Makes",
+  "url": "https://yevhenmakes.com/",
+  "description": "Things I build, and notes on building them",
+  "author": "Yevhen",
+  "tags": ["Independent development", "Productivity"],
+  "works": [
+    { "title": "Productive Fish", "url": "https://productive.fish/" },
+    { "title": "Yellow Tomato", "url": "https://yellowtomato.app/" }
+  ]
+}

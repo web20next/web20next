@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/site.schema.json",
+  "name": "Oleg Vishnevsky",
+  "url": "https://lovelyfriendly.com/",
+  "description": "Oleg's design, engineering, and visual work.",
+  "author": "Oleg Vishnevsky",
+  "tags": [
+    "Design",
+    "Engineering",
+    "Portfolio"
+  ]
+}
